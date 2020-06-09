@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.container{
+	width: 380px;
+	height: 80px;
+}
+.sr-only{
+	padding:10px;
+}
+a.a2{
+	position:relative;
+	text-align: right;
+	right: -144px;
+}
+a:hover {
+	text-decoration:underline;
+}
